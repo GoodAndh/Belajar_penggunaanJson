@@ -1,0 +1,43 @@
+{
+   
+    "Menu":[
+        {
+        "Kategori":"Makanan",
+        "Nama":"Nasi goreng Telur",
+        "Harga":13000,
+        "Deskripsi":"Nasi goreng dan Telur",
+        "Gambar":"img/Nasgortelur.jpg"
+    },
+    {
+        "Kategori":"Makanan",
+        "Nama":"Nasi goreng Sehat",
+        "Harga":13000,
+        "Deskripsi":"Nasi goreng dan Sayur-sayuran",
+        "Gambar":"img/Nasgorspesial.jpeg"
+    },
+    {
+        "Kategori":"Makanan",
+        "Nama":"Nasi goreng Udang",
+        "Harga":15000,
+        "Deskripsi":"Nasi goreng dan Udang",
+        "Gambar":"img/Nasgorudang.jpg"
+    },
+    {
+        "Kategori":"Minuman",
+        "Nama":"Es Teh",
+        "Harga":3000,
+        "Deskripsi":"Teh es /Tidak pakai es",
+        "Gambar":"img/Tehes.jpg"
+    },
+    {
+        "Kategori":"Minuman",
+        "Nama":"Es Jeruk",
+        "Harga":3000,
+        "Deskripsi":"Es Jeruk /Tidak pakai es",
+        "Gambar":"img/Esjeruk.jpg"
+    }
+    ],
+    "Pemilik":["Andika","Udin","Supri","Putra","Abdul"]
+    
+
+}
